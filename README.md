@@ -5,6 +5,4 @@ Open Authorization (OAuth) is a service that allows websites or apps to share us
 I learned this project from here https://www.section.io/engineering-education/django-google-oauth/
 
 # What Other Branches In This Tutorial Do
-1. Django Log In With Email Not Username Tutorial Branch. 
-
-In this branch, I have allowed users to login using there email addresses. I have also created two dedicated apps. One for account registration and the other for other apps.
+1. Django Log In With Email Not Username Tutorial Branch. In this branch, I have allowed users to login using there email addresses. I have also created two dedicated apps. One for account registration and the other for other apps.
